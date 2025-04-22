@@ -1,4 +1,5 @@
 # fancy-notebook-sheets
+![Poster](/assets/preview.png)
 ## What is it?
 Generators for various notebook sheets:
 * millimeters
